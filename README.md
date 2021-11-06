@@ -26,4 +26,4 @@ I'm interested in Data Science / Machine Learning / Deep Leaning / Visualization
 ### 🔗 Contacts
 </a> <a href="https://instagram.com/jay_0r0"> <img src="http://img.shields.io/badge/-jay_0r0-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/jay_0r0/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://linkedin.com/in/jaeung-lee"> <img src="http://img.shields.io/badge/-Jaeung Lee-0A66C2?style=flat&logo=Linkedin&link=https://linkedin.com/in/jaeung-lee/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://jaewoong9192@gmail.com"> <img src="http://img.shields.io/badge/-jaewoong9192@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://jaewoong9192@gmail.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaywoong)](https://github.com/jaywoong/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaywoong&hide=contribs,prs)](https://github.com/jaywoong/github-readme-stats)
