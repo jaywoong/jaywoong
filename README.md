@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ---
 
-👋 **Hi! I'm Jaeung Lee.**
+#### 👋 **Hi! I'm Jaeung Lee.**
 
-📈 **I want to be a Data-Driven Product Manager.** 
+#### 📈 **I want to be a Data-Driven Product Manager.** 
 
-😄 **I'm interested in Data Science / Machine Learning / Deep Leaning / Visualization.**
+#### 😄 **I'm interested in Data Science / Machine Learning / Deep Leaning / Visualization.**
 
 
 ### 🛠️ Skills
